@@ -1,4 +1,4 @@
-oi Felipe dict = {
+dict = {
     "Cringe": "algo vergonhoso ou constrangedor",
     "Stalkear": "investigar a vida de alguém online",
     "Vdd": "abreviação da palavra |verdade|",
