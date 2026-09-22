@@ -8,6 +8,11 @@ dict = {
         }
 
 def achar():
+    print(" ███  █      ███  █ 
+█   █ █     █   █ █ 
+█   █ █     █████ █ 
+█   █ █     █   █   
+ ███  █████ █   █ █ ")
     word = str(input("Digite uma palavra moderna que voce nao entende: \n 0 - Dicionario inteiro"))
     print("\n")
     
